@@ -23,6 +23,18 @@
 </p>
 
 7. **PyCharm (https://www.jetbrains.com/pycharm/download/)**
+<p align="left">
+  <img width="1200" height="600" src="https://github.com/ankur715/AWS_redshift/blob/master/pycharm/pip%20install%20psycopg2%20boto3.png"> 
+</p>
+
+<p align="left">
+  <img width="1200" height="600" src="https://github.com/ankur715/AWS_redshift/blob/master/pycharm/pgsql.png"> 
+</p>
+
+<p align="left">
+  <img width="1200" height="600" src="https://github.com/ankur715/AWS_redshift/blob/master/pycharm/pgsql2.png"> 
+</p>
+
 8. **AWS S3 (https://s3.console.aws.amazon.com/s3/home?region=us-east-2)**
 9. **AWS Redshift (https://us-east-2.console.aws.amazon.com/redshift/home?region=us-east-2#)**
 
