@@ -19,7 +19,7 @@
 5. **Amazon AWS (https://aws.amazon.com/)**
 6. **AWS Redshift steps 1-6 (https://docs.aws.amazon.com/redshift/latest/gsg/getting-started.html)**
 <p align="left">
-  <img width="1100" height="600" src="https://github.com/ankur715/AWS_redshift/blob/master/AWS/redshift-cluster-1.png"> 
+  <img width="1200" height="600" src="https://github.com/ankur715/AWS_redshift/blob/master/AWS/redshift-cluster-1.png"> 
 </p>
 
 7. **PyCharm (https://www.jetbrains.com/pycharm/download/)**
