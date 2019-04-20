@@ -15,8 +15,13 @@
 <p align="left">
   <img width="800" height="450" src="https://github.com/ankur715/AWS_redshift/blob/master/postgres/ZAGDB%20PostgreSQL.png"> 
 </p>
+
 5. **Amazon AWS (https://aws.amazon.com/)**
 6. **AWS Redshift steps 1-6 (https://docs.aws.amazon.com/redshift/latest/gsg/getting-started.html)**
+<p align="left">
+  <img width="800" height="450" src="https://github.com/ankur715/AWS_redshift/blob/master/AWS/redshift-cluster-1%20.png"> 
+</p>
+
 7. **PyCharm (https://www.jetbrains.com/pycharm/download/)**
 8. **AWS S3 (https://s3.console.aws.amazon.com/s3/home?region=us-east-2)**
 9. **AWS Redshift (https://us-east-2.console.aws.amazon.com/redshift/home?region=us-east-2#)**
