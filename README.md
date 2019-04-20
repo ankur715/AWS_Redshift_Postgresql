@@ -24,11 +24,11 @@
 
 7. **PyCharm (https://www.jetbrains.com/pycharm/download/)**
 <p align="left">
-  <img width="1000" height="500" src="https://github.com/ankur715/AWS_redshift/blob/master/pycharm/pgsql1.png"> 
+  <img width="1000" height="500" src="https://github.com/ankur715/AWS_redshift/blob/master/pycharm/pgsql1 .png"> 
 </p>
 
 <p align="left">
-  <img width="1000" height="500" src="https://github.com/ankur715/AWS_redshift/blob/master/pycharm/pgsql2.png"> 
+  <img width="1000" height="500" src="https://github.com/ankur715/AWS_redshift/blob/master/pycharm/pgsql2 .png"> 
 </p>
 
 8. **AWS S3 (https://s3.console.aws.amazon.com/s3/home?region=us-east-2)**
