@@ -12,6 +12,9 @@
 2. **PostgreSQL (https://www.postgresql.org/download/)**
 3. **pfAdmin (https://www.pgadmin.org/download/pgadmin-4-windows/)**
 4. **Create ZAGDB databse on pdAdmin**
+<p align="left">
+  <img width="600" height="300" src="https://github.com/ankur715/AWS_redshift/blob/master/postgres/ZAGDB%20PostgreSQL.png"> 
+</p>
 5. **Amazon AWS (https://aws.amazon.com/)**
 6. **AWS Redshift steps 1-6 (https://docs.aws.amazon.com/redshift/latest/gsg/getting-started.html)**
 7. **PyCharm (https://www.jetbrains.com/pycharm/download/)**
