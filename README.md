@@ -7,7 +7,7 @@
 ---
 
 #### **STEPS**
-#### *Note: Includes links to instructions; varies according to OS (mine is Windows)*
+#### *Note: Includes links to downloads/instructions; varies according to OS (mine is Windows)*
 1. **ZAGDB (.sql in this repo)**
 2. **PostgreSQL (https://www.postgresql.org/download/)**
 3. **pfAdmin (https://www.pgadmin.org/download/pgadmin-4-windows/)**
