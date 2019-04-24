@@ -15,7 +15,7 @@
 <p align="left">
   <img width="1000" height="500" src="https://github.com/ankur715/AWS_redshift/blob/master/postgres/ZAGDB%20PostgreSQL.png"> 
 </p>
-
+A
 5. **Amazon AWS (https://aws.amazon.com/)**
 6. **AWS Redshift steps 1-6 (https://docs.aws.amazon.com/redshift/latest/gsg/getting-started.html)**
 <p align="left">
