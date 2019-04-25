@@ -8,7 +8,7 @@
 
 #### **STEPS**
 #### *Note: Includes links to downloads/instructions; varies according to OS (mine is Windows); single ETL cluster*
-1. **ZAGDB (.sql in this repo)**
+1. **ZAGDB (.sql in this repo for reference)**
 
 2. **PostgreSQL (https://www.postgresql.org/download/)**
 
@@ -51,6 +51,14 @@
 </p>
 
 9. **AWS Redshift (https://us-east-2.console.aws.amazon.com/redshift/home?region=us-east-2#)**
+<p align="left">
+  <img width="1000" height="500" src="https://github.com/ankur715/AWS_redshift/blob/master/redshift/redshift1.png"> 
+</p>
+
+*3 tables*
+<p align="left">
+  <img width="1000" height="500" src="https://github.com/ankur715/AWS_redshift/blob/master/redshift/redshift1%20aws.png"> 
+</p>
 
 ---
 
