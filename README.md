@@ -60,6 +60,10 @@
   <img width="1000" height="500" src="https://github.com/ankur715/AWS_redshift/blob/master/redshift/redshift%20aws.png"> 
 </p>
 
+*redshift pycharm query:*
+<p align="left">
+  <img width="1000" height="500" src="https://github.com/ankur715/AWS_redshift/blob/master/redshift/redshift%20pycharm%20query.png"> 
+</p>
 ---
 
 If you would like to discuss my project or any new opportunities, please email me at [p.ankur.715@gmail.com](mailto:p.ankur.715@gmail.com) or https://www.linkedin.com/in/ankurpatel715/.
