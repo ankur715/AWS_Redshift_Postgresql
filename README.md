@@ -34,14 +34,7 @@
 
 6. **Amazon AWS (https://aws.amazon.com/)**
 
-7. **AWS Redshift Cluster steps 1-6 (https://docs.aws.amazon.com/redshift/latest/gsg/getting-started.html)**
-<p align="left">
-  <img width="1000" height="500" src="https://github.com/ankur715/AWS_redshift/blob/master/AWS/redshift-cluster-1.png"> 
-</p>
-
-*Note down the username and password*
-
-8. **AWS S3 (https://s3.console.aws.amazon.com/s3/home?region=us-east-2)**
+7. **AWS S3 (https://s3.console.aws.amazon.com/s3/home?region=us-east-2)**
 <p align="left">
   <img width="1000" height="500" src="https://github.com/ankur715/AWS_redshift/blob/master/s3/s3%20pycharm.png"> 
 </p>
@@ -51,6 +44,13 @@
 <p align="left">
   <img width="1000" height="500" src="https://github.com/ankur715/AWS_redshift/blob/master/s3/s3%20bucket.png"> 
 </p>
+
+8. **AWS Redshift Cluster steps 1-6 (https://docs.aws.amazon.com/redshift/latest/gsg/getting-started.html)**
+<p align="left">
+  <img width="1000" height="500" src="https://github.com/ankur715/AWS_redshift/blob/master/AWS/redshift-cluster-1.png"> 
+</p>
+
+*Note down the username and password*
 
 9. **AWS Redshift (https://us-east-2.console.aws.amazon.com/redshift/home?region=us-east-2#)**
 <p align="left">
