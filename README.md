@@ -57,7 +57,7 @@
 
 *redshift query*
 <p align="left">
-  <img width="1000" height="500" src="https://github.com/ankur715/AWS_redshift/blob/master/redshift/redshift1%20aws.png"> 
+  <img width="1000" height="500" src="https://github.com/ankur715/AWS_redshift/blob/master/redshift/redshift%20aws.png"> 
 </p>
 
 ---
