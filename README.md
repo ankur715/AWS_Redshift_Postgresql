@@ -34,7 +34,7 @@
 
 6. **Amazon AWS (https://aws.amazon.com/)**
 
-7. **AWS Redshift steps 1-6 (https://docs.aws.amazon.com/redshift/latest/gsg/getting-started.html)**
+7. **AWS Redshift Cluster steps 1-6 (https://docs.aws.amazon.com/redshift/latest/gsg/getting-started.html)**
 <p align="left">
   <img width="1000" height="500" src="https://github.com/ankur715/AWS_redshift/blob/master/AWS/redshift-cluster-1.png"> 
 </p>
