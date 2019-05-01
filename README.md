@@ -24,11 +24,11 @@
   <img width="1000" height="500" src="https://github.com/ankur715/AWS_redshift/blob/master/pgsql/pgsql1 .png"> 
 </p>
 
+*Data extracted*
+
 <p align="left">
   <img width="1000" height="500" src="https://github.com/ankur715/AWS_redshift/blob/master/pgsql/pgsql2 .png"> 
 </p>
-
-*Data extracted*
 
 6. **Amazon AWS (https://aws.amazon.com/)**
 
