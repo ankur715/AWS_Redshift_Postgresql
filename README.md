@@ -15,6 +15,7 @@
 3. **pfAdmin (https://www.pgadmin.org/download/pgadmin-4-windows/)**
 
 4. **Create ZAGDB databse on pdAdmin**
+    - *Note down credentials*
     - CREATE TABLE
     - INSERT VALUES
 <p align="left">
@@ -22,11 +23,12 @@
 </p>
 
 5. **PyCharm (https://www.jetbrains.com/pycharm/download/)**
+    - Back-End coding! 
 <p align="left">
   <img width="1000" height="500" src="https://github.com/ankur715/AWS_redshift/blob/master/pgsql/pgsql1 .png"> 
 </p>
 
-*Data extracted*
+*Data extracted and saved*
 
 <p align="left">
   <img width="1000" height="500" src="https://github.com/ankur715/AWS_redshift/blob/master/pgsql/pgsql2 .png"> 
@@ -39,13 +41,13 @@
   <img width="1000" height="500" src="https://github.com/ankur715/AWS_redshift/blob/master/s3/s3%20pycharm.png"> 
 </p>
 
-*Data loaded on AWS S3*
+*Data loaded on AWS S3 Bucket*
 
 <p align="left">
   <img width="1000" height="500" src="https://github.com/ankur715/AWS_redshift/blob/master/s3/s3%20bucket.png"> 
 </p>
 
-8. **AWS Redshift Cluster steps 1-6 (https://docs.aws.amazon.com/redshift/latest/gsg/getting-started.html)**
+8. **AWS Redshift Cluster steps 1-5 (https://docs.aws.amazon.com/redshift/latest/gsg/getting-started.html)**
 <p align="left">
   <img width="1000" height="500" src="https://github.com/ankur715/AWS_redshift/blob/master/AWS/redshift-cluster-1.png"> 
 </p>
@@ -57,12 +59,13 @@
   <img width="1000" height="500" src="https://github.com/ankur715/AWS_redshift/blob/master/redshift/redshift%20pycharm.png"> 
 </p>
 
-*redshift query:*
+Ways to query:
+  - Redshift Query Editor:
 <p align="left">
   <img width="1000" height="500" src="https://github.com/ankur715/AWS_redshift/blob/master/redshift/redshift%20aws.png"> 
 </p>
 
-*redshift pycharm query:*
+  - PyCharm Execute Query
 <p align="left">
   <img width="1000" height="500" src="https://github.com/ankur715/AWS_redshift/blob/master/redshift/redshift%20pycharm%20query.png"> 
 </p>
