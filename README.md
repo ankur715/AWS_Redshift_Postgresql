@@ -15,6 +15,8 @@
 3. **pfAdmin (https://www.pgadmin.org/download/pgadmin-4-windows/)**
 
 4. **Create ZAGDB databse on pdAdmin**
+    - CREATE TABLE
+    - INSERT VALUES
 <p align="left">
   <img width="1000" height="500" src="https://github.com/ankur715/AWS_redshift/blob/master/postgres/ZAGDB%20PostgreSQL.png"> 
 </p>
