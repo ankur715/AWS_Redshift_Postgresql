@@ -19,16 +19,7 @@
   <img width="1000" height="500" src="https://github.com/ankur715/AWS_redshift/blob/master/postgres/ZAGDB%20PostgreSQL.png"> 
 </p>
 
-5. **Amazon AWS (https://aws.amazon.com/)**
-
-6. **AWS Redshift steps 1-6 (https://docs.aws.amazon.com/redshift/latest/gsg/getting-started.html)**
-<p align="left">
-  <img width="1000" height="500" src="https://github.com/ankur715/AWS_redshift/blob/master/AWS/redshift-cluster-1.png"> 
-</p>
-
-*Note down the username and password*
-
-7. **PyCharm (https://www.jetbrains.com/pycharm/download/)**
+5. **PyCharm (https://www.jetbrains.com/pycharm/download/)**
 <p align="left">
   <img width="1000" height="500" src="https://github.com/ankur715/AWS_redshift/blob/master/pgsql/pgsql1 .png"> 
 </p>
@@ -38,6 +29,15 @@
 </p>
 
 *Data extracted*
+
+6. **Amazon AWS (https://aws.amazon.com/)**
+
+7. **AWS Redshift steps 1-6 (https://docs.aws.amazon.com/redshift/latest/gsg/getting-started.html)**
+<p align="left">
+  <img width="1000" height="500" src="https://github.com/ankur715/AWS_redshift/blob/master/AWS/redshift-cluster-1.png"> 
+</p>
+
+*Note down the username and password*
 
 8. **AWS S3 (https://s3.console.aws.amazon.com/s3/home?region=us-east-2)**
 <p align="left">
