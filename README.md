@@ -52,10 +52,10 @@
 
 9. **AWS Redshift (https://us-east-2.console.aws.amazon.com/redshift/home?region=us-east-2#)**
 <p align="left">
-  <img width="1000" height="500" src="https://github.com/ankur715/AWS_redshift/blob/master/redshift/redshift1.png"> 
+  <img width="1000" height="500" src="https://github.com/ankur715/AWS_redshift/blob/master/redshift/redshift%20pycharm.png"> 
 </p>
 
-*3 tables*
+*redshift query*
 <p align="left">
   <img width="1000" height="500" src="https://github.com/ankur715/AWS_redshift/blob/master/redshift/redshift1%20aws.png"> 
 </p>
