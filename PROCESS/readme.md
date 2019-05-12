@@ -1,4 +1,4 @@
-## Python codes
+## Python coding
 
 1. PostgreSQL: psycopg2
 2. AWS: s3
