@@ -14,7 +14,7 @@
 
 3. **pfAdmin (https://www.pgadmin.org/download/pgadmin-4-windows/)**
 
-4. **Create ZAGDB databse on pdAdmin**
+4. **Create ZAGDB database on pdAdmin**
     - *Note down credentials*
     - CREATE TABLE
     - INSERT VALUES
