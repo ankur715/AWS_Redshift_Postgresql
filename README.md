@@ -71,7 +71,8 @@ Ways to query:
 </p>
 
 
-#### Virtual Environment:
+### Virtual Environment:
+  - Extra option if switching between different versions.   
   - Python virtual environments allow developers to control software dependencies in Python code. They're useful ways of ensuring that the correct package/library versions are consistently used every time the software runs. Virtual environments also help ensure that the results from running code are reproducible. 
 <p align="left">
   <img width="600" height="250" src="https://github.com/ankur715/AWS_Redshift_Postgresql/blob/master/venv/pics/activate_venv.png"> 
