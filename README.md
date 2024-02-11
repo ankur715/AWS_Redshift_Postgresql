@@ -69,6 +69,14 @@ Ways to query:
 <p align="left">
   <img width="1000" height="500" src="https://github.com/ankur715/AWS_redshift/blob/master/redshift/redshift%20pycharm%20query.png"> 
 </p>
+
+
+#### Virtual Environment:
+  - Python virtual environments allow developers to control software dependencies in Python code. They're useful ways of ensuring that the correct package/library versions are consistently used every time the software runs. Virtual environments also help ensure that the results from running code are reproducible. 
+<p align="left">
+  <img width="600" height="250" src="https://github.com/ankur715/AWS_Redshift_Postgresql/blob/master/venv/pics/activate_venv.png"> 
+</p>
+
 ---
 
 If you would like to discuss my project or any new opportunities, please email me at [p.ankur.715@gmail.com](mailto:p.ankur.715@gmail.com) or https://www.linkedin.com/in/ankurpatel715/.
